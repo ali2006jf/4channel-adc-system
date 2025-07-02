@@ -7,7 +7,7 @@ This repository contains design files for a high-performance, synchronized 4-cha
 
 The board captures **4 single-ended analog signals**, conditions them using precision amplifiers, and digitizes them using **four AD7762 ADC chips**. Each channel is independently processed but fully **synchronized**, enabling coherent multi-channel sampling — ideal for signal processing and measurement applications.
 
-![Preview](2D-PCB.png)
+![Preview](docs/2D-PCB.png)
 
 ## ⚙️ Key Features
 
